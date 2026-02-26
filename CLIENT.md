@@ -3,33 +3,33 @@
 
 ## IDENTITE
 
-NOM_ENTREPRISE: "Nom de l'Entreprise"
-NOM_LEGAL: "Nom de l'Entreprise SARL"
-SIRET: "000 000 000 00000"
+NOM_ENTREPRISE: "K.B. COUVERTURE"
+NOM_LEGAL: "K.B. COUVERTURE EIRL"
+SIRET: "994 074 631 00000"
 METIER: "couvreur"
 METIER_LABEL: "Couvreur"
 GENRE_DIRIGEANT: "M"
-PRENOM_DIRIGEANT: "Prenom"
-NOM_DIRIGEANT: "Nom"
+PRENOM_DIRIGEANT: "Kévin"
+NOM_DIRIGEANT: "Berweiller"
 DIPLOME_DIRIGEANT: "couvreur-zingueur diplome, compagnon du devoir"
-ANNEE_CREATION: "2010"
-ANNEES_EXPERIENCE: "15"
+ANNEE_CREATION: "2025"
+ANNEES_EXPERIENCE: "1"
 
 ## CONTACT
 
-TELEPHONE: "00 00 00 00 00"
-EMAIL: "contact@votre-domaine.fr"
-ADRESSE: "1 Rue de la Paix"
-CODE_POSTAL: "00000"
-VILLE: "Votre Ville"
-DEPARTEMENT: "Votre Departement"
-REGION: "Votre Region"
+TELEPHONE: "06 65 76 68 70"
+EMAIL: "kevinvanbeen@gmail.com"
+ADRESSE: "7 rue du Pont Rodinet"
+CODE_POSTAL: "51490"
+VILLE: "Époyé"
+DEPARTEMENT: "Marne"
+REGION: "Champagne-Ardenne"
 PAYS: "France"
-HORAIRES: "Lun-Ven: 8h00-18h00, Sam: 9h00-13h00"
-ZONE_INTERVENTION: "Votre ville et region"
-ZONES_LISTE: "Votre Ville, Ville A, Ville B, Ville C, Ville D, Ville E, Ville F"
-LATITUDE: "46.603354"
-LONGITUDE: "1.888334"
+HORAIRES: "Lun-Ven: 7h30-18h00, Sam: 8h00-13h00"
+ZONE_INTERVENTION: "Marne et Île-de-France"
+ZONES_LISTE: "Époyé, Aÿ, Mardeuil, Cumières, Dizy, Mareuil-sur-Aÿ"
+LATITUDE: "48.8236"
+LONGITUDE: "3.7233"
 
 ## BRANDING
 
@@ -43,19 +43,19 @@ FONT_CORPS: "DM Sans"
 
 ## SEO
 
-DOMAINE: "www.votre-domaine.fr"
-META_TITLE: "Nom de l'Entreprise | Couvreur a Votre Ville"
-META_DESCRIPTION: "Couvreur a Votre Ville. Couverture neuve, renovation de toiture, zinguerie, isolation, depannage urgent. Devis gratuit."
-META_KEYWORDS: "couvreur, couverture, toiture, renovation toiture, zinguerie, isolation toiture, depannage toiture, couvreur professionnel"
+DOMAINE: "www.kb-couverture.fr"
+META_TITLE: "K.B. COUVERTURE | Couvreur Époyé (51)"
+META_DESCRIPTION: "K.B. COUVERTURE - Couvreur professionnel à Époyé. Couverture neuve, rénovation toiture, zinguerie, isolation, dépannage d'urgence. Devis gratuit."
+META_KEYWORDS: "couvreur Époyé, couverture toiture, rénovation toiture Marne, zinguerie, dépannage toiture urgent"
 SCHEMA_TYPE: "RoofingContractor"
 
 ## CONTENU
 
-SLOGAN: "Votre Slogan Ici"
+SLOGAN: "Votre Toiture, Notre Expertise"
 ACCROCHE_HERO: "Votre Toiture — Entre de Bonnes Mains"
-DESCRIPTION_ENTREPRISE: "Votre description d'entreprise. Couverture, renovation, zinguerie et isolation — un savoir-faire artisanal au service de votre toiture."
-DESCRIPTION_FOOTER: "Votre description courte pour le footer du site."
-DESCRIPTION_APROPOS: "Fondee par Prenom Nom, votre entreprise est nee d'une passion profonde pour les metiers de la couverture et du batiment."
+DESCRIPTION_ENTREPRISE: "K.B. COUVERTURE est un artisan couvreur basé à Époyé en Marne. Spécialisé dans la couverture neuve, la rénovation de toiture, la zinguerie et l'isolation. Nous intervenons rapidement pour tous vos besoins en couverture."
+DESCRIPTION_FOOTER: "K.B. COUVERTURE - Artisan couvreur à Époyé depuis 2025. Nous assurons la qualité et la durabilité de vos toitures."
+DESCRIPTION_APROPOS: "K.B. COUVERTURE a été créée par Kévin Berweiller, un artisan passionné par les métiers de la couverture et du bâtiment. Fort de son savoir-faire, Kévin propose des solutions durables et qualitatives pour tous vos projets de toiture."
 
 ## SERVICES
 
@@ -83,16 +83,16 @@ PINTEREST_URL: ""
 
 ## TEMOIGNAGES
 
-TEMOIGNAGE_1_NOM: "Client Satisfait"
-TEMOIGNAGE_1_VILLE: "Votre Ville"
-TEMOIGNAGE_1_TEXTE: "Nom de l'Entreprise a refait entierement notre toiture en ardoise. Le travail est impeccable, l'equipe ponctuelle et soigneuse. Nous recommandons les yeux fermes !"
+TEMOIGNAGE_1_NOM: "M. Dupont"
+TEMOIGNAGE_1_VILLE: "Époyé"
+TEMOIGNAGE_1_TEXTE: "K.B. COUVERTURE a refait entierement notre toiture en ardoise. Le travail est impeccable, l'equipe ponctuelle et soigneuse. Nous recommandons les yeux fermes !"
 TEMOIGNAGE_1_NOTE: "5"
-TEMOIGNAGE_2_NOM: "Famille Placeholder"
-TEMOIGNAGE_2_VILLE: "Commune voisine"
+TEMOIGNAGE_2_NOM: "Mme Bernard"
+TEMOIGNAGE_2_VILLE: "Aÿ"
 TEMOIGNAGE_2_TEXTE: "Intervention rapide apres une fuite. Diagnostic precis, reparation efficace et prix honnete. Un vrai professionnel de la couverture."
 TEMOIGNAGE_2_NOTE: "5"
-TEMOIGNAGE_3_NOM: "M. Placeholder"
-TEMOIGNAGE_3_VILLE: "Ville proche"
+TEMOIGNAGE_3_NOM: "M. Lefevre"
+TEMOIGNAGE_3_VILLE: "Mardeuil"
 TEMOIGNAGE_3_TEXTE: "Renovation complete de notre zinguerie. Gouttieres en zinc posees avec un soin remarquable. Aucun probleme depuis, meme apres de fortes pluies."
 TEMOIGNAGE_3_NOTE: "5"
 
